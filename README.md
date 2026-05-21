@@ -1,18 +1,18 @@
 # 🎂 BirthdayApp
 
-An app built with love, data structures, and a severe lack of mutual feelings.
+Originally developed to make a special girl happy on her birthday.
 
-## 🚀 v2.0.0 — The "Reality Check" Update
+### 📣 CHANGELOG — v2.0
 
-### ⚠️ BREAKING CHANGES
-* **Deprecation Notice:** The primary end-user (`girl_v1.0`) has been completely removed from the production scope. 
-* **Zero-Pointer Exception:** There is currently no active target variable available to deploy this application to.
-* **Refactoring:** The romantic database has been dropped. Moving forward with an empty stack.
+* **[REMOVED]** The girl.
+* **[UNCHANGED]** The codebase (it actually works flawlessly, unlike some relationships).
+* **[TODO]** Find a new user to justify the server costs.
 
-### 🐛 Bug Fixes
-* Fixed an issue where the developer spent excessive CPU cycles thinking about the wrong endpoint.
-* Patched the "hope" memory leak. 
+* ### 🛠️ Maintenance & Support
+* No active development is planned because the target audience has left the server.
+* The repo is left open purely for code aesthetics and as a monument to my clean coding skills.
+* Code works. My heart? `NullPointerException`.
 
-### 📂 Current Status
+* ### 📂 Current Status
 This repository is officially **archived** and transitioned into a standard portfolio piece. 
 Code works fine, life logic requires hotfix.

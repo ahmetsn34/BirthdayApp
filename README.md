@@ -6,7 +6,7 @@ Originally developed to make a special girl happy on her birthday.
 
 * **[REMOVED]** The girl.
 * **[UNCHANGED]** The codebase (it actually works flawlessly, unlike some relationships).
-* **[TODO]** Find a new user to justify the server costs.
+* **[TODO]** Find a new user to justify the server costs. (suspended)
 
 * ### 🛠️ Maintenance & Support
 * No active development is planned because the target audience has left the server.
